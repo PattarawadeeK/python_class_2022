@@ -10,6 +10,7 @@
     - [First program: Hello World](#first-program-hello-world)
     - [Programming concepts](#programming-concepts)
     - [How to use github repository](#how-to-use-github-repository)
+    - [Class materials](#class-materials)
     - [Class exercises](#class-exercises)
 
 ---
@@ -83,5 +84,7 @@
   * [ ] [NATO phonetic](https://youtu.be/3sofYly_vxA)
 ### How to use github repository
 * [ ] [github](https://www.youtube.com/watch?v=hSQgAA8bj6I&list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
+### Class materials
+* [ ] [Python playlist](https://www.youtube.com/playlist?list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW)
 ### Class exercises
 * [ ] find a simple real-world application (e.g., come x pay y, buy 1 get 1 free) 
