@@ -1,14 +1,6 @@
-/**
- *
- * @param {number} come
- * @param {number} pay
- * @param {number} per_head
- * @param {number} pak
- * @returns number
- */
-function come_x_pay_y(come, pay, per_head, pak) {
-    let amt = Math.floor(pak / come) * pay * per_head + (pak % come) * per_head;
+function come_x_pay_y(pax, per_head, come, pay) {
+    let amt = Math.floor(pax / come) * (pay * per_head) + (pax % come) * per_head;
     return amt;
 }
-come_x_pay_y();
-console.log(come_x_pay_y(4, 3, 100, 5));
+
+console.log(come_x_pay_y(5, 100, 4, 3));
