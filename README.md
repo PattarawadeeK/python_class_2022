@@ -9,8 +9,8 @@
       - [macOS Terminal command line](#macos-terminal-command-line)
     - [First program: Hello World](#first-program-hello-world)
     - [Programming concepts](#programming-concepts)
-    - [How to use github repository](#how-to-use-github-repository)
     - [Class materials](#class-materials)
+      - [Clone class materials](#clone-class-materials)
     - [Class exercises](#class-exercises)
 
 ---
@@ -39,6 +39,7 @@
 ### Basic Python
 * [ ] Install Python
   * [ ] [Windows](https://youtu.be/NxIwWGKuSco)
+    * [ ] `where.exe python`
   * [ ] macOS (preinstalled with macOS)
     * [ ] `python3` instead of `python`
       * [ ] `which python3`
@@ -82,9 +83,21 @@
   * [ ] [lucky phone number](https://youtu.be/OK5lP47wd3k)
   * [ ] [come x pay y](https://youtu.be/qqk0iTdmeTA)
   * [ ] [NATO phonetic](https://youtu.be/3sofYly_vxA)
-### How to use github repository
-* [ ] [github](https://www.youtube.com/watch?v=hSQgAA8bj6I&list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
 ### Class materials
 * [ ] [Python playlist](https://www.youtube.com/playlist?list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW)
+#### Clone class materials
+* [ ] [install git](https://www.git-scm.com/)
+  * [ ] [how to use github](https://www.youtube.com/watch?v=hSQgAA8bj6I&list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
+* [ ] clone git repo to local machine
+```bat
+mkdir snowball
+cd snowball
+git clone https://github.com/prasertcbs/python_class_2022.git
+```
+* [ ] pull latest files from git repo
+```bat
+cd snowball
+git pull
+```
 ### Class exercises
 * [ ] find a simple real-world application (e.g., come x pay y, buy 1 get 1 free) 
