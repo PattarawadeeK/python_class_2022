@@ -1,7 +1,7 @@
 # CONTENTS
 - [CONTENTS](#contents)
 - [2602348: Program Design (Python)](#2602348-program-design-python)
-  - [week 1: 10-Jan-2022](#week-1-10-jan-2022)
+  - [Week 1: 10-Jan-2022](#week-1-10-jan-2022)
     - [Why Python](#why-python)
     - [Basic Python](#basic-python)
     - [Basic Command line](#basic-command-line)
@@ -19,7 +19,8 @@
 * author: [Prasert Kanawattanachai](mailto:prasert.k@chula.ac.th)
 * Chulalongkorn Business School
 * YouTube: https://youtube.com/prasertcbs
-## week 1: 10-Jan-2022
+## Week 1: 10-Jan-2022
+* [ ] [week 1 clips](https://github.com/prasertcbs/python_class_2022/blob/main/week1_clips.md)
 ### Why Python
 * [ ] [Why Python?](https://realpython.com/world-class-companies-using-python/)
 * [ ] [Stack Overflow survey](https://insights.stackoverflow.com/survey/2021#most-popular-technologies)
