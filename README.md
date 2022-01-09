@@ -30,15 +30,10 @@
   * [ ] [Popularity](https://en.wikipedia.org/wiki/Python_(programming_language)#Popularity)
 * [ ] [Designer/Inventor](https://en.wikipedia.org/wiki/Guido_van_Rossum)
 * [ ] Stack Overflow survey
-  * [ ] [2018](https://insights.stackoverflow.com/survey/2018#technology)
-    * [ ] [popular](https://insights.stackoverflow.com/survey/2018#technology-_-databases)
-    * [ ] [most loved](https://insights.stackoverflow.com/survey/2018#technology-_-most-loved-dreaded-and-wanted-databases)
   * [ ] [2020](https://insights.stackoverflow.com/survey/2020#most-popular-technologies)
-    * [ ] [popular](https://insights.stackoverflow.com/survey/2020#technology-databases)
-    * [ ] [most loved](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-databases)
+    * [ ] [most wanted](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted)
   * [ ] [2021](https://insights.stackoverflow.com/survey/2021#technology-most-popular-technologies)
-    * [ ] [popular](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-databases)
-    * [ ] [most loved](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-databases)
+    * [ ] [most wanted](https://insights.stackoverflow.com/survey/2021#most-loved-dreaded-and-wanted-language-want)
 ### Basic Python
 * [ ] Install Python
   * [ ] [Windows](https://youtu.be/NxIwWGKuSco)
