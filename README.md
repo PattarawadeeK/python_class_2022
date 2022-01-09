@@ -25,7 +25,6 @@
 * [ ] [week 1 clips](https://github.com/prasertcbs/python_class_2022/blob/main/week1_clips.md)
 ### Why Python
 * [ ] [Why Python?](https://realpython.com/world-class-companies-using-python/)
-* [ ] [Stack Overflow survey](https://insights.stackoverflow.com/survey/2021#most-popular-technologies)
 * [ ] [History](https://en.wikipedia.org/wiki/Python_(programming_language))
   * [ ] [Popularity](https://en.wikipedia.org/wiki/Python_(programming_language)#Popularity)
 * [ ] [Designer/Inventor](https://en.wikipedia.org/wiki/Guido_van_Rossum)
