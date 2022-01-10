@@ -89,13 +89,12 @@
   * [ ] [how to use github](https://www.youtube.com/watch?v=hSQgAA8bj6I&list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
 * [ ] clone git repo to local machine
 ```bat
-mkdir snowball
-cd snowball
-git clone https://github.com/prasertcbs/python_class_2022.git
+cd ~
+git clone https://github.com/prasertcbs/python_class_2022.git snowball
 ```
 * [ ] pull latest files from git repo
 ```bat
-cd snowball
+cd ~/snowball
 git pull
 ```
 ### Class exercises
