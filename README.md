@@ -88,15 +88,28 @@
 * [x] [install git](https://www.git-scm.com/)
   * [x] [how to use github](https://www.youtube.com/watch?v=hSQgAA8bj6I&list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
 * [x] clone git repo to local machine
-```bat
-cd ~
-git clone https://github.com/prasertcbs/python_class_2022.git snowball
-```
-* [ ] pull latest files from git repo
-```bat
-cd ~/snowball
-git pull
-```
+  * [ ] Windows (cmd)
+    * [ ] clone repository
+      ```bat
+      cd %userprofile%
+      git clone https://github.com/prasertcbs/python_class_2022.git snowball
+      ```
+      * [ ] pull latest files from git repo
+      ```bat
+      cd %userprofile%\snowball
+      git pull
+      ```
+  * [ ] mac/Windows (PowerShell)
+    * [ ] clone repository
+      ```sh
+      cd ~
+      git clone https://github.com/prasertcbs/python_class_2022.git snowball
+      ```
+    * [ ] pull latest files from git repo
+      ```sh
+      cd ~/snowball
+      git pull
+      ```
 ### Class exercises
 * [ ] find a simple real-world application (e.g., come x pay y, buy 1 get 1 free)
 
