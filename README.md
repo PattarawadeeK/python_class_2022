@@ -16,6 +16,7 @@
   - [week 2 (17-Jan-2022)](#week-2-17-jan-2022)
     - [Program design](#program-design)
     - [Principles of programming](#principles-of-programming)
+  - [Extra:](#extra)
 
 ---
 # 2602348: Program Design (Python)
@@ -88,18 +89,18 @@
 * [x] [install git](https://www.git-scm.com/)
   * [x] [how to use github](https://www.youtube.com/watch?v=hSQgAA8bj6I&list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
 * [x] clone git repo to local machine
-  * [ ] Windows (cmd)
+  * [ ] Windows (`cmd`)
     * [ ] clone repository
       ```bat
       cd %userprofile%
       git clone https://github.com/prasertcbs/python_class_2022.git snowball
       ```
-      * [ ] pull latest files from git repo
+    * [ ] pull latest files from git repo
       ```bat
       cd %userprofile%\snowball
       git pull
       ```
-  * [ ] mac/Windows (PowerShell)
+  * [ ] mac/Windows (`PowerShell`)
     * [ ] clone repository
       ```sh
       cd ~
@@ -115,7 +116,6 @@
 
 ## week 2 (17-Jan-2022)
 * [ ] [week 2 clips](https://github.com/prasertcbs/python_class_2022/blob/main/week2_clips.md)
-
 ### Program design
 * [ ] Static vs Dynamic typing systems
   * [ ] Static typing (C, Java)
@@ -127,8 +127,8 @@
 * [ ] data type (int, float, bool, str, tuple, list, dict, ...)
 * [ ] flow (sequence, condition, loop)
 * [ ] variable scope (global, local)
-* [ ] function (just like functions in Excel)
 * [ ] [Variable scope](https://www.youtube.com/watch?v=3-OaUTf_1Cs&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW&index=49)
+* [ ] function (just like functions in Excel)
 * [ ] Function
   * [ ] return value(s)
   * [ ] return None (void function)
@@ -144,3 +144,14 @@
 * [ ] How to debug your code
   * [ ] [Python Preview](https://youtu.be/4r4Qb1a1rD4)
   * [ ] [Visual Studio Code Debugger](https://youtu.be/89Ch7ON2Tqg) 
+## Extra:
+* [ ] Customize your `terminal`
+  * [ ] `Windows` (PowerShell)
+    * [ ] Install Windows Terminal
+    * [ ] [Install PowerShell 7](https://www.youtube.com/watch?v=FFLrObUKgwg)
+    * [ ] [Install Oh-my-posh](https://www.youtube.com/watch?v=Soiqw0ooFRM)
+    * [ ] [Customize Windows Terminal](https://www.youtube.com/watch?v=hgx1JnU5B4k)
+  * [ ] `macOS`
+    * [ ] [Install homebrew](https://www.youtube.com/watch?v=48oicKQ2qgQ)
+    * [ ] Install iterm2
+    * [ ] [Install Oh-my-zsh](https://www.youtube.com/watch?v=-5SI3xFM_3E)
