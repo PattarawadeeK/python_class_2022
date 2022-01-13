@@ -1,8 +1,8 @@
 # CONTENTS
 - [CONTENTS](#contents)
 - [2602348: Program Design (Python)](#2602348-program-design-python)
-  - [class registration issues](#class-registration-issues)
-  - [Week 1: 10-Jan-2022](#week-1-10-jan-2022)
+  - [* YouTube: https://youtube.com/prasertcbs](#-youtube-httpsyoutubecomprasertcbs)
+- [Week 1: 10-Jan-2022](#week-1-10-jan-2022)
     - [Why Python](#why-python)
     - [Basic Python](#basic-python)
     - [Basic Command line](#basic-command-line)
@@ -13,9 +13,12 @@
     - [Class materials](#class-materials)
       - [Clone class materials](#clone-class-materials)
     - [Class exercises](#class-exercises)
-  - [week 2 (17-Jan-2022)](#week-2-17-jan-2022)
-    - [Program design](#program-design)
-    - [Principles of programming](#principles-of-programming)
+  - [* [ ] find a simple real-world application (e.g., come x pay y, buy 1 get 1 free)](#---find-a-simple-real-world-application-eg-come-x-pay-y-buy-1-get-1-free)
+- [week 2 (17-Jan-2022)](#week-2-17-jan-2022)
+  - [class registration issues](#class-registration-issues)
+    - [how to ask question](#how-to-ask-question)
+  - [Program design](#program-design)
+  - [Principles of programming](#principles-of-programming)
   - [Extra:](#extra)
 
 ---
@@ -24,8 +27,8 @@
 * author: [Prasert Kanawattanachai](mailto:prasert.k@chula.ac.th)
 * Chulalongkorn Business School
 * YouTube: https://youtube.com/prasertcbs
-## class registration issues
-## Week 1: 10-Jan-2022
+---
+# Week 1: 10-Jan-2022
 * [x] [week 1 clips](https://github.com/prasertcbs/python_class_2022/blob/main/week1_clips.md)
 ### Why Python
 * [x] [Why Python?](https://realpython.com/world-class-companies-using-python/)
@@ -113,10 +116,12 @@
       ```
 ### Class exercises
 * [ ] find a simple real-world application (e.g., come x pay y, buy 1 get 1 free)
-
-## week 2 (17-Jan-2022)
+---
+# week 2 (17-Jan-2022)
 * [ ] [week 2 clips](https://github.com/prasertcbs/python_class_2022/blob/main/week2_clips.md)
-### Program design
+## class registration issues
+### [how to ask question](https://stackoverflow.com/help/how-to-ask)
+## Program design
 * [ ] Static vs Dynamic typing systems
   * [ ] Static typing (C, Java)
   * [ ] Dynamic typing (Python, JavaScript)
@@ -132,7 +137,7 @@
 * [ ] Function
   * [ ] return value(s)
   * [ ] return None (void function)
-### Principles of programming
+## Principles of programming
 * [ ] Single Responsibility: Do one thing, do it best
   * [ ] area
     * [ ] rectangle
