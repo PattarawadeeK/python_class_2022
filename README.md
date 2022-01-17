@@ -193,10 +193,11 @@
   * [ ] download pokemon images
   * [ ] [download apple music album covers](https://rss.applemarketingtools.com/)
   * [ ] generate QR codes (MECARD, geo location)
-* [ ] [while](https://www.youtube.com/watch?v=AyToJTrYZrk&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW&index=36)
+* [ ] [while]
   * [ ] compare with for loop
   * [ ] saving money
 * [ ] exit loop
   * [ ] break
   * [ ] continue
-* [ ] [range](https://www.youtube.com/watch?v=RiIJFLMG1aU&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW&index=30)
+* [ ] [range]
+* [ ] format string (f-string)
