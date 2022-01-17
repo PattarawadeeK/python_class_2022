@@ -14,12 +14,18 @@
       - [Clone class materials](#clone-class-materials)
     - [Class exercises](#class-exercises)
   - [* [ ] find a simple real-world application (e.g., come x pay y, buy 1 get 1 free)](#---find-a-simple-real-world-application-eg-come-x-pay-y-buy-1-get-1-free)
-- [week 2 (17-Jan-2022)](#week-2-17-jan-2022)
+- [Week 2 (17-Jan-2022)](#week-2-17-jan-2022)
   - [class registration issues](#class-registration-issues)
     - [how to ask question](#how-to-ask-question)
   - [Program design](#program-design)
   - [Principles of programming](#principles-of-programming)
+  - [Packages/Libraries](#packageslibraries)
   - [Extra:](#extra)
+  - [Week 3 (24-Jan-2022)](#week-3-24-jan-2022)
+    - [Static vs Dynamic typing systems](#static-vs-dynamic-typing-systems)
+    - [Function](#function)
+    - [data type](#data-type)
+    - [Loop (real world examples)](#loop-real-world-examples)
 
 ---
 # 2602348: Program Design (Python)
@@ -117,38 +123,40 @@
 ### Class exercises
 * [ ] find a simple real-world application (e.g., come x pay y, buy 1 get 1 free)
 ---
-# week 2 (17-Jan-2022)
-* [ ] [week 2 clips](https://github.com/prasertcbs/python_class_2022/blob/main/week2_clips.md)
+# Week 2 (17-Jan-2022)
+* [x] [week 2 clips](https://github.com/prasertcbs/python_class_2022/blob/main/week2_clips.md)
 ## class registration issues
 ### [how to ask question](https://stackoverflow.com/help/how-to-ask)
 ## Program design
-* [ ] Static vs Dynamic typing systems
-  * [ ] Static typing (C, Java)
-  * [ ] Dynamic typing (Python, JavaScript)
-    * [ ] problem with dynamic typing
-      * [ ] rectangle(5, 7)
-      * [ ] rectangle("5", 7)
-* [ ] variable (w=5, h=2.54, fname='Peter')
-* [ ] data type (int, float, bool, str, tuple, list, dict, ...)
+* [x] naming convention
+  * [x] snake
+* [x] variable (w=5, h=2.54, fname='Peter')
+* [x] data type (int, float, bool, str, tuple, list, dict, ...)
 * [ ] flow (sequence, condition, loop)
-* [ ] variable scope (global, local)
-* [ ] [Variable scope](https://www.youtube.com/watch?v=3-OaUTf_1Cs&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW&index=49)
-* [ ] function (just like functions in Excel)
-* [ ] Function
-  * [ ] return value(s)
-  * [ ] return None (void function)
+  * [x] if...elif...else
+    * [x] rock paper scissors
+* [x] variable scope (global, local)
+* [x] [Variable scope](https://www.youtube.com/watch?v=3-OaUTf_1Cs&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW&index=49)
+* [x] function (just like functions in Excel)
+* [x] Function
+  * [x] return value(s)
+* [x] bad function
+  * [x] mix input, process and output
 ## Principles of programming
-* [ ] Single Responsibility: Do one thing, do it best
-  * [ ] area
-    * [ ] rectangle
-    * [ ] square
-    * [ ] triangle
-    * [ ] circle
-    * [ ] cylinder
+* [x] Single Responsibility: Do one thing, do it best
+  * [x] area
+    * [x] rectangle
+    * [x] square
+    * [x] triangle
+    * [x] circle
+    * [x] cylinder
   * [ ] body mass index
 * [ ] How to debug your code
-  * [ ] [Python Preview](https://youtu.be/4r4Qb1a1rD4)
+  * [x] [Python Preview](https://youtu.be/4r4Qb1a1rD4)
   * [ ] [Visual Studio Code Debugger](https://youtu.be/89Ch7ON2Tqg) 
+## Packages/Libraries
+* [x] math
+* [x] random
 ## Extra:
 * [ ] Customize your `terminal`
   * [ ] `Windows` (PowerShell)
@@ -160,3 +168,35 @@
     * [ ] [Install homebrew](https://www.youtube.com/watch?v=48oicKQ2qgQ)
     * [ ] Install iterm2
     * [ ] [Install Oh-my-zsh](https://www.youtube.com/watch?v=-5SI3xFM_3E)
+
+## Week 3 (24-Jan-2022)
+* [ ] [week 3 clips](https://github.com/prasertcbs/python_class_2022/blob/main/week3_clips.md)
+* [ ] test Google Classroom submission
+### Static vs Dynamic typing systems
+* [ ] Static typing (C, Java)
+* [ ] Dynamic typing (Python, JavaScript)
+  * [ ] problem with dynamic typing
+    * [ ] rectangle(5, 7)
+    * [ ] rectangle("5", 7)
+### Function
+* [ ] return value(s)
+* [ ] return None (void function)
+### data type
+* [ ] tuple
+### Loop (real world examples)
+* [ ] for (simple count up/down)
+  * [ ] count down with time.sleep(1)
+  * [ ] multiplication table
+  * [ ] temperature table
+  * [ ] download crypto currencies price from yahoo
+  * [ ] [plot heart with plotly express](example/heart.ipynb)
+  * [ ] download pokemon images
+  * [ ] [download apple music album covers](https://rss.applemarketingtools.com/)
+  * [ ] generate QR codes (MECARD, geo location)
+* [ ] [while](https://www.youtube.com/watch?v=AyToJTrYZrk&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW&index=36)
+  * [ ] compare with for loop
+  * [ ] saving money
+* [ ] exit loop
+  * [ ] break
+  * [ ] continue
+* [ ] [range](https://www.youtube.com/watch?v=RiIJFLMG1aU&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW&index=30)
